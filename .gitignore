@@ -73,3 +73,22 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Platforms
+Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset
+Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset
+Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset
+Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset
+Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset
+Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset
+Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset
+Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset
+Plugins/BlueprintWebsockets/Config/FilterPlugin.ini
+Plugins/BlueprintWebsockets/EasyWebsockets.uplugin
+Plugins/BlueprintWebsockets/LICENSE
+Plugins/BlueprintWebsockets/README.md
+Plugins/BlueprintWebsockets/Source/EasyWebsockets/EasyWebsockets.Build.cs
+Plugins/BlueprintWebsockets/Source/EasyWebsockets/Private/EasyWebsockets.cpp
+Plugins/BlueprintWebsockets/Source/EasyWebsockets/Private/Websocket.cpp
+Plugins/BlueprintWebsockets/Source/EasyWebsockets/Private/WebsocketFunctionLibrary.cpp
+Plugins/BlueprintWebsockets/Source/EasyWebsockets/Public/EasyWebsockets.h
+Plugins/BlueprintWebsockets/Source/EasyWebsockets/Public/Websocket.h
+Plugins/BlueprintWebsockets/Source/EasyWebsockets/Public/WebsocketFunctionLibrary.h
