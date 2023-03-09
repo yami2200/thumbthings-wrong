@@ -41,3 +41,11 @@ The link to the webapp repository : [**Click Here**](https://github.com/Pixselve
 
 ![login](docs/screenshot-1.jpeg)
 ![in game](docs/screenshot-4.jpeg)
+
+## Technical Details
+
+Our gamejam project was developed using Unreal Engine 5.1, which allowed us to create a game quickly with a variety of gameplay mechanics. Additionally, we used Magica Voxel to create all of the game assets, which helped us to quickly prototype and iterate on our designs.
+
+To enable real-time communication between the game and our webapp, we utilized a custom WebSocket server developed in TypeScript.
+
+For the webapp itself, we used React to create a responsive and user-friendly interface. 
